@@ -19,17 +19,20 @@ const Projects = () => {
           img={lImg}
           title="LvlUp.gg"
           type="Full stack Application"
+          link="https://github.com/GTZ-STUDIO/LvlUp.gg"
         />
         <ProjectItem
           img={superSetImg}
           title="SuperSet"
           type="Android Application"
+          link="https://github.com/Thamira2001/SuperSet"
         />
-        <ProjectItem img={f1Img} title="F1Db + UI" type="MS SQL server" />
+        <ProjectItem img={f1Img} title="F1Db + UI" type="MS SQL server"  link="https://github.com/Thamira2001/F1-Db-command-line-UI"/>
         <ProjectItem
           img={contractorsImg}
           title="ContractorsPro"
           type="Frontend Prototype"
+          link="https://github.com/Thamira2001/ContractorsPro"
         />
       </div>
     </div>
