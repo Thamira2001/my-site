@@ -4,6 +4,12 @@ import WorkItem from "./WorkItem";
 const data = [
   {
     year: 2024,
+    title: "Vice President of Business to Customer and Marketing ",
+    duration: "currently present",
+    details: "Actively managed a team of 5 highly motivated individuals to increase the reach of our organization both inside and outside of University of Manitoba. Collaborate with my members to utilize tools such as canvas and figma for content creation. Effectively collaborate with my members to streamline time intervals for posting content and ideate new initiatives to reach new audiences",
+  },
+  {
+    year: 2024,
     title: "Sales Associate at Lens Crafters",
     duration: "currently present",
     details: "Effectively communicate with and tend to customer’s eye wear needs to provide a 5-star experience and the best eyewear solutions by leveraging expertise in eye wear and effective communication and sales skills. Actively participate and contribute to a positive strong environment, fostering strong, professional relationships with peers, management, doctors, and support staff",
