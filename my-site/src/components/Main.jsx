@@ -7,7 +7,7 @@ const Main = () => {
     <div id="main">
       <img
         className="w-full h-screen object-cover object-left scale-x-[-1]"
-        src="https://images.unsplash.com/photo-1483354483454-4cd359948304?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHBvcnRmb2xpbyUyMGJhY2tncm91bmRzfGVufDB8fDB8fHww"
+        src="https://images.unsplash.com/photo-1597733336794-12d05021d510?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fHRlY2hub2xvZ3l8ZW58MHx8MHx8fDA%3D"
         alt=""
       />
       <div className="w-full h-screen absolute top-0 left-0 bg-white/50">
