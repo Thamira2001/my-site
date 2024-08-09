@@ -5,7 +5,7 @@ const data = [
   {
     year: 2024,
     title: "Vice President of Business to Customer and Marketing at AIESEC MB",
-    duration: "currently present",
+    duration: "4 months",
     details: "Actively manage a team of 5 highly motivated individuals to increase the reach of our organization both inside and outside of University of Manitoba. Collaborate with my members to utilize tools such as canvas and figma for content creation. Effectively collaborate with my members to streamline time intervals for posting content and ideate new initiatives to reach new audiences",
   },
   {
