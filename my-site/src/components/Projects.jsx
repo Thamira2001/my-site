@@ -14,7 +14,26 @@ const Projects = () => {
       <p className="text-center py-8">
         
       </p>
+      
       <div className="grid sm:grid-cols-2 gap-12">
+        <ProjectItem
+          img={lImg}
+          title="Expense-tracker"
+          type="Full stack Application - MERN tech stack"
+          link="https://github.com/Thamira2001/Expense-Tracker"
+        />
+        <ProjectItem
+          img={lImg}
+          title="Scream"
+          type="Full stack Application - MERN tech stack"
+          link="https://github.com/Thamira2001/Scream"
+        />
+        <ProjectItem
+          img={lImg}
+          title="Analytics-Dashboard"
+          type="Full stack - streamlit+Django+SQLite3"
+          link="https://github.com/Thamira2001/Analytics-Dashboard"
+        />
         <ProjectItem
           img={lImg}
           title="LvlUp.gg"
