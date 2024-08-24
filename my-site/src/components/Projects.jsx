@@ -3,6 +3,9 @@ import ProjectItem from "./ProjectItem";
 import superSetImg from "../assets/superset.jpg";
 import f1Img from "../assets/f1.jpg";
 import lImg from "../assets/lvlUp.gg.jpg";
+import screamIMG from '../assets/SCREAM.jpg';
+import dashIMG from '../assets/streamlit.png';
+import expenseIMG from '../assets/expenseT.jpg';
 import contractorsImg from "../assets/ContractorPro.jpeg";
 
 const Projects = () => {
@@ -17,19 +20,19 @@ const Projects = () => {
       
       <div className="grid sm:grid-cols-2 gap-12">
         <ProjectItem
-          img={lImg}
+          img={expenseIMG}
           title="Expense-tracker"
           type="Full stack Application - MERN tech stack"
           link="https://github.com/Thamira2001/Expense-Tracker"
         />
         <ProjectItem
-          img={lImg}
+          img={screamIMG}
           title="Scream"
           type="Full stack Application - MERN tech stack"
           link="https://github.com/Thamira2001/Scream"
         />
         <ProjectItem
-          img={lImg}
+          img={dashIMG}
           title="Analytics-Dashboard"
           type="Full stack - streamlit+Django+SQLite3"
           link="https://github.com/Thamira2001/Analytics-Dashboard"
