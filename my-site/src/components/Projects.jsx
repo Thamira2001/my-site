@@ -26,7 +26,7 @@ const Projects = () => {
           link="https://github.com/Thamira2001/Expense-Tracker"
         />
         <ProjectItem
-          img={Agree2DIMG}
+          img={Ag2DIMG}
           title="Agree2Disagree"
           type="R&D - Full stack LLM Application - Langchain, Django and Gemini API"
           link="https://github.com/Thamira2001/Agree2Disagree"
